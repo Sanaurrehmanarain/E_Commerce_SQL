@@ -67,6 +67,35 @@ The system follows **3rd Normal Form (3NF)** to reduce redundancy:
 4.  **Launch Dashboard:**
     * Open `dashboard.ipynb` and run all cells to see the analytics.
 
+## Citation
+
+If you use this project in academic research, publications, educational
+materials, or derivative works, please cite the project.
+
+This repository includes a `CITATION.cff` file, so GitHub provides a
+**"Cite this repository"** button in the repository sidebar. You can use it
+to obtain citations in BibTeX, APA, and other supported formats.
+
+**Suggested citation:**
+Sana Ur Rehman Arain. (2026). E_Commerce_SQL (Version 1.0) [Software].
+<https://github.com/sanaurrehmanarain/E_Commerce_SQL>
+
+If you build upon this work, attribution is appreciated and helps others
+discover the original project.
+
+> **Note:** The MIT License requires that the original copyright
+> notice be retained in copies of the Software.
+
+## License
+
+This project is licensed under the MIT License. See the
+[LICENSE](LICENSE) file for details.
+
 ## 📝 Author
 **Sana Ur Rehman Arain**
+
 *Data Analyst | SQL Expert | Python Developer*
+
+*GitHub:* <https://github.com/sanaurrehmanarain>
+
+*Contact:* <sana.arain.work@gmail.com>
