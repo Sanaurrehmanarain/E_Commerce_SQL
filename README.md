@@ -77,7 +77,8 @@ This repository includes a `CITATION.cff` file, so GitHub provides a
 to obtain citations in BibTeX, APA, and other supported formats.
 
 **Suggested citation:**
-Sana Ur Rehman Arain. (2026). E_Commerce_SQL (Version 1.0) [Software].
+
+Arain, S. U. R. (2026). E_Commerce_SQL (Version 1.0) [Software].
 <https://github.com/sanaurrehmanarain/E_Commerce_SQL>
 
 If you build upon this work, attribution is appreciated and helps others
